@@ -1,0 +1,25 @@
+.mainPageOwnerPhoto {
+    position: absolute;
+    width: 50%;
+    height: 80%;
+    left: 3rem;
+    top: 12rem;
+}
+
+.mainPageLeftFlowers {
+    position: absolute;
+    width: 20%;
+    height: 50%;
+    left: 0rem;
+    top: 27rem;
+    background-blend-mode: luminosity;
+}
+
+.mainPageRightFlowers {
+    position: absolute;
+    width: 40%;
+    height: 75%;
+    left: 80rem;
+    top: 4rem;
+    background-blend-mode: luminosity;
+}

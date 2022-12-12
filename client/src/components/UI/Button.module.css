@@ -1,0 +1,25 @@
+.button {
+    position: absolute;
+    width: 13rem;
+    height: 4rem;
+    left: 74rem;
+    top: 48rem;
+    
+    background: #A58263;
+    /* Blobby button */
+    
+    box-shadow: 5px 6px 4px rgba(107, 74, 44, 0.4);
+    border-radius: 57px;  
+    border-color: #A58263;
+
+    /* remove annoying black outline */
+    border: 0;
+    outline: none;
+
+    font-family: 'Ledger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 45px;
+    color: white;
+}

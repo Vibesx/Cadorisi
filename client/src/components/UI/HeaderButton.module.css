@@ -1,0 +1,58 @@
+.button {
+    font-family: 'Ledger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 36px;
+    
+    color: #6B4A2C;
+}
+
+.mainTitle {
+    position: absolute;
+    left: 45.1%;
+    right: 45.1%;
+    top: 26.85%;
+    bottom: 9.26%;
+
+    font-family: 'Bodoni Bk BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4rem;
+    line-height: 4rem;
+    /* identical to box height */
+
+    color: #FFFCF8;
+}
+
+.buttonOferte {
+    position: absolute;
+    left: 11.41%;
+    right: 78.23%;
+    top: 44.44%;
+    bottom: 22.22%;
+}
+
+.buttonAranjamente {
+    position: absolute;
+    left: 24.69%;
+    right: 61.46%;
+    top: 44.44%;
+    bottom: 22.22%;
+}
+
+.buttonHome {
+    position: absolute;
+    left: 63.91%;
+    right: 31.98%;
+    top: 43.52%;
+    bottom: 23.15%;
+}
+
+.buttonContact {
+    position: absolute;
+    left: 71.56%;
+    right: 23.23%;
+    top: 43.52%;
+    bottom: 23.15%;
+}
